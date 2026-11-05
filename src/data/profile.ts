@@ -46,7 +46,7 @@ export const profile: Profile = {
     { value: 'Remote', label: 'Work setup', Icon: SealCheck },
     { value: 'GMT+8', label: 'Time zone', Icon: Clock },
   ],
-  displayName: { line1: 'Good work.', line2: 'Less juggling.' },
+  displayName: { line1: 'Your unsolicited', line2: 'solution.' },
   hero: {
     body: 'Duls brings thoughtful, hands-on support to the people and processes behind a growing business — from content and admin to research, recruitment, and the everyday details that keep work moving.',
     portraitSrc: '/avatar.svg',
