@@ -39,7 +39,7 @@ export const profile: Profile = {
   role: 'Virtual Assistance · Social Media · Operations',
   avatarSrc: '/avatar.svg',
   verifiedLabel: 'Duls portfolio',
-  email: 'you@example.com',
+  email: 'annekathlinbacani@gmail.com',
   location: 'Philippines · GMT+8',
   stats: [
     { value: '4', label: 'Support areas', Icon: Briefcase },
